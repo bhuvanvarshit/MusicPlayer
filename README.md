@@ -6,9 +6,11 @@
 <p>Track Listing: Displays a list of available tracks.</p>
 
 **Screens**<br>
-**Desktop:**
 
-
+<img src="https://github.com/bhuvanvarshit/MusicPlayer/blob/main/Music-Player-Project/images/1.png">
+<img src="https://github.com/bhuvanvarshit/MusicPlayer/blob/main/Music-Player-Project/images/2.png">
+<img src="https://github.com/bhuvanvarshit/MusicPlayer/blob/main/Music-Player-Project/images/3.png">
+<img src="https://github.com/bhuvanvarshit/MusicPlayer/blob/main/Music-Player-Project/images/4.png">
 
 **Installation**
 <ul><li>
